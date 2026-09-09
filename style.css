@@ -4,18 +4,11 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.6;
-    color: #333;
-    background-color: #f4f4f4;
-}
-
 .container {
     max-width: 900px;
     margin: 0 auto;
     padding: 40px 20px;
-    background-color: white;
+    background: linear-gradient(to bottom, #bb740a7a, #ff5e006e);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
